@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript and this software release."
+title: "CEMHYD-KD Toolkit"
+version: 0.1.0
+date-released: 2026-10-16
+license: MIT

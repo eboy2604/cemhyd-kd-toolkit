@@ -1,0 +1,11 @@
+{
+  "Cement (component 1)(kg in a m^3 mixture)": 350.0,
+  "Blast Furnace Slag (component 2)(kg in a m^3 mixture)": 0.0,
+  "Fly Ash (component 3)(kg in a m^3 mixture)": 0.0,
+  "Water  (component 4)(kg in a m^3 mixture)": 180.0,
+  "Superplasticizer (component 5)(kg in a m^3 mixture)": 5.0,
+  "Coarse Aggregate  (component 6)(kg in a m^3 mixture)": 1050.0,
+  "Fine Aggregate (component 7)(kg in a m^3 mixture)": 760.0,
+  "Age (day)": 28,
+  "Water_Binder_Ratio": 0.5142857
+}

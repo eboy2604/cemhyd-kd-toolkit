@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cemhyd-kd-toolkit"
+version = "0.1.0"
+description = "Reproducible microstructure descriptors and reporting for CEMHYD3D knowledge-distillation studies."
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24", "pandas>=2.0", "scipy>=1.10", "matplotlib>=3.7", "gudhi>=3.8"]
+
+[project.scripts]
+cemhyd-kd = "cemhyd_kd.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["cemhyd_kd*"]
